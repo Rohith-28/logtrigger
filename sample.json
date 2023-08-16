@@ -6,5 +6,61 @@
       "transmitter started by": "Rohith",
       "RunningDuration": "0.0.1seconds"
     }
+  ],
+  "2023-08-14": [
+    {
+      "startTimeStamp": "2023-08-14, 13:39:55",
+      "stopTimeStamp": "2023-08-14, 13:39:57",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.2seconds"
+    },
+    {
+      "startTimeStamp": "2023-08-14, 18:14:05",
+      "stopTimeStamp": "2023-08-14, 18:14:08",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.3seconds"
+    },
+    {
+      "startTimeStamp": "2023-08-14, 18:14:45",
+      "stopTimeStamp": "2023-08-14, 18:14:46",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.1seconds"
+    },
+    {
+      "startTimeStamp": "2023-08-14, 18:16:07",
+      "stopTimeStamp": "2023-08-14, 18:16:08",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.1seconds"
+    },
+    {
+      "startTimeStamp": "2023-08-14, 18:28:03",
+      "stopTimeStamp": "2023-08-14, 18:28:05",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.2seconds"
+    },
+    {
+      "startTimeStamp": "2023-08-14, 18:42:54",
+      "stopTimeStamp": "2023-08-14, 18:42:55",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.1seconds"
+    },
+    {
+      "startTimeStamp": "2023-08-14, 18:45:30",
+      "stopTimeStamp": "2023-08-14, 18:45:33",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.3seconds"
+    },
+    {
+      "startTimeStamp": "2023-08-14, 18:50:13",
+      "stopTimeStamp": "2023-08-14, 18:50:14",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.1seconds"
+    },
+    {
+      "startTimeStamp": "2023-08-14, 19:00:13",
+      "stopTimeStamp": "2023-08-14, 19:00:19",
+      "transmitter started by": "Rohith",
+      "RunningDuration": "0.0.6seconds"
+    }
   ]
 }
